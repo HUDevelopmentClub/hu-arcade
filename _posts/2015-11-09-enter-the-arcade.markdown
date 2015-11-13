@@ -6,7 +6,7 @@ categories: arcade update
 ---
 ## Enter Player 1
 
-### The HU Arcade
+##### The HU Arcade
 
 ###### [by Austin Barrett | November 9, 2015](../../../../../../team/)
 
