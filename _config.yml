@@ -32,12 +32,12 @@ people:
   pic: 2
   position: University Liaison
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: chrome
+      url: http://workofbobby.com/
+    # - title: facebook
+      # url: #
     - title: linkedin
-      url: #
+      url: http://www.linkedin.com/in/robert-klein-8a198879
 
 - name: Sam Heybey
   pic: 3
