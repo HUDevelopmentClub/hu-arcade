@@ -5,6 +5,7 @@ date:   2015-11-09 23:08:54
 categories: arcade update
 ---
 ## Enter Player 1
+
 ### The HU Arcade
 
 ###### [by Austin Barrett | November 9, 2015](../../../../../../team/)
