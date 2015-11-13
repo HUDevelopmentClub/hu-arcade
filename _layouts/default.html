@@ -8,9 +8,14 @@
     {% include header.html %}
 
     <div class="page-content">
+      {% if page.title != "Team" %}
       <div class="wrapper">
         {{ content }}
       </div>
+      {% else %}
+      {{ content }}
+      {% endif %}
+
     </div>
 
     {% include footer.html %}
