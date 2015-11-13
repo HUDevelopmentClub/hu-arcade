@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome"
 date:   2015-11-09 23:08:54
 categories: arcade update
+description: Imagine, it is May 22, 1980 and you bright eyed 12 year old putting your quarter into a brand new Pac-Man machine. Now imagine that machine can also play Galaga, Donky Kong, Super Mario Bros, and many more games. Now fast forward to today. It is 2015, and you are standing in front of this machine.
 ---
 ## Enter Player 1
 
