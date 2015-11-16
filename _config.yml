@@ -34,8 +34,8 @@ people:
   social:
     - title: chrome
       url: http://workofbobby.com/
-    # - title: facebook
-      # url: #
+     - title: twitter
+       url: http://twitter.com/bobbyvklein
     - title: linkedin
       url: http://www.linkedin.com/in/robert-klein-8a198879
 
@@ -74,7 +74,7 @@ people:
 
 - name: Tim McKenna
   pic: 6
-  position: Academic Adviser
+  position: Faculty Adviser
   social:
     - title: twitter
       url: https://twitter.com/azraelgroup
