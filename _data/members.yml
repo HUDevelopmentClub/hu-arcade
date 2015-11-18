@@ -1,0 +1,68 @@
+# Team names, titles and social links
+- name: Austin Barrett
+  pic: 1
+  position: Project Manager
+  social:
+    - title: github
+      url: http://github.com/viruscmd
+    - title: tumblr
+      url: http://art.austinisa.ninja
+    - title: chrome
+      url: http://austinisa.ninja
+
+- name: Bobby Klein
+  pic: 2
+  position: University Liaison
+  social:
+    - title: chrome
+      url: http://workofbobby.com/
+    - title: twitter
+      url: http://twitter.com/bobbyvklein
+    - title: linkedin
+      url: http://www.linkedin.com/in/robert-klein-8a198879
+
+- name: Sam Heybey
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: github
+      url: http://github.com/sheybey
+    - title: chrome
+      url: http://sam.heybey.org/
+    # - title: google-plus
+    #   url: #
+
+- name: Henry Schmale
+  pic: 4
+  position: Cabinet Architect
+  social:
+    - title: github
+      url: http://github.com/hschmale16
+    # - title: facebook
+    #   url: #
+    # - title: google-plus
+    #   url: #
+
+- name: Danny Ockershausen
+  pic: 5
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: http://twitter.com/ockershausen
+    - title: facebook
+      url: http://www.facebook.com/dyanna.ockershausen
+    - title: linkedin
+      url: http://www.linkedin.com/in/dyanna-ockershausen-6b1936a8
+
+- name: Tim McKenna
+  pic: 6
+  position: Faculty Adviser
+  social:
+    - title: twitter
+      url: https://twitter.com/azraelgroup
+    - title: linkedin
+      url: http://www.linkedin.com/in/timothyfxmckenna
+    - title: facebook
+      url: http://www.facebook.com/timothy.mckenna.31
+    - title: chrome
+      url: http://azraelgroup.com/
