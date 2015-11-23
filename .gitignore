@@ -1,6 +1,4 @@
 _site
 .sass-cache
 .jekyll-metadata
-
-# Austin leaves ide files laying around.
 .idea/*
