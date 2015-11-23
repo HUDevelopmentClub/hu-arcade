@@ -1,6 +1,6 @@
 # Team names, titles and social links
 - name: Austin Barrett
-  pic: 1
+  pic: http://i.imgur.com/u63Y4TE.jpg
   position: Project Manager
   social:
     - title: github
@@ -11,7 +11,7 @@
       url: http://austinisa.ninja
 
 - name: Bobby Klein
-  pic: 2
+  pic: http://i.imgur.com/LCHu1VO.jpg
   position: University Liaison
   social:
     - title: chrome
@@ -22,7 +22,7 @@
       url: http://www.linkedin.com/in/robert-klein-8a198879
 
 - name: Sam Heybey
-  pic: 3
+  pic: http://i.imgur.com/sZHYBY4.jpg
   position: Lead Developer
   social:
     - title: github
@@ -33,7 +33,7 @@
     #   url: #
 
 - name: Henry Schmale
-  pic: 4
+  pic: http://i.imgur.com/HtrN6tG.jpg
   position: Cabinet Architect
   social:
     - title: github
@@ -44,7 +44,7 @@
     #   url: #
 
 - name: Danny Ockershausen
-  pic: 5
+  pic: http://i.imgur.com/qQThX4m.jpg
   position: Lead Designer
   social:
     - title: twitter
@@ -55,7 +55,7 @@
       url: http://www.linkedin.com/in/dyanna-ockershausen-6b1936a8
 
 - name: Tim McKenna
-  pic: 6
+  pic: http://i.imgur.com/KILy7K4.jpg
   position: Faculty Adviser
   social:
     - title: twitter
